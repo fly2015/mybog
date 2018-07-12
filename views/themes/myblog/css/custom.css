@@ -1,0 +1,123 @@
+/*
+Theme Name: Iconic One Pro
+Custom CSS Template for Iconic One Pro
+*/	
+
+#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+
+
+p { font-family: 'Tahoma'; font-size: 15px; font-style: normal; font-weight: 400; }
+h1 { font-family: 'Tahoma'; font-size: 20px; font-style: normal; font-weight: 400; }
+
+#menu-top ul{
+    font-size: 0;
+}
+
+.themonic-nav .current-menu-item a, .themonic-nav .current-menu-ancestor a, .themonic-nav .current_page_item a, .themonic-nav .current_page_ancestor a {
+    background: #00A1E0;
+    color: #FFFFFF;
+    font-weight: bold;
+}
+.themonic-nav ul.nav-menu, .themonic-nav div.nav-menu ul {
+    background: none repeat scroll 0 0 #F3F3F3;
+    border-bottom: 5px solid #00A1E0;
+}		
+.themonic-nav li a:hover {
+    background: #00A1E0;
+}
+.themonic-nav li:hover {
+    background: #00A1E0;
+}
+.themonic-nav .current-menu-item a, .themonic-nav .current-menu-ancestor a, .themonic-nav .current_page_item a, .themonic-nav .current_page_ancestor a {
+
+    font-weight: bold;
+}
+.themonic-nav li a:hover {
+
+}
+.categories a {
+    background:#00A1E0;
+}
+.read-more a {
+    color: #00A1E0;
+}
+.featured-post {
+    color: #00A1E0;
+}
+#emailsubmit {
+    background: #00A1E0;
+}
+#searchsubmit {
+    background: #00A1E0;
+}
+.themonic-nav .current-menu-item a, .themonic-nav .current-menu-ancestor a, .themonic-nav .current_page_item a, .themonic-nav .current_page_ancestor a {
+    background: #00A1E0;
+}
+.comments-area article {
+    border-color: #E1E1E1 #E1E1E1 #00A1E0;
+}
+@media screen and (max-width: 767px) {
+    .themonic-nav ul.nav-menu, .themonic-nav div.nav-menu > ul, .themonic-nav li {
+        border-bottom: none;
+    }
+}
+.socialmedia img { border-radius: 20px;}
+
+
+.separator-sidebar{
+    margin: 24px 0px !important;
+    background-color: #e9e9e9 !important;
+}
+
+
+div.wp_rp_content {
+    display: inline-block !important;
+}
+.wp_rp_wrap .related_post_title {
+    clear: both;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.entry-content h3, .comment-content h3 {
+    font-size: 16px;
+    line-height: 1.846153846;
+}
+ul.related_post {
+    display: inline-block !important;
+    position: relative !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+ul.related_post li {
+    position: relative !important;
+    display: inline-block !important;
+    vertical-align: top !important;
+    zoom: 1 !important;
+    width: 150px !important;
+    margin: 10px 10px 10px 0px !important;
+    padding: 0 !important;
+    background: none !important;
+}
+ul.related_post li a {
+    position: relative !important;
+    display: block !important;
+    font-size: 13px !important;
+    line-height: 1.6em !important;
+    text-decoration: none !important;
+    margin-bottom: 5px !important;
+    text-indent: 0 !important;
+}
+ul.related_post li img {
+    display: block !important;
+    width: 150px !important;
+    height: 150px !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    background: none !important;
+    border: none !important;
+    border-radius: 3px !important;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2) !important;
+}
